@@ -10,4 +10,4 @@ The plane flies and shoot as the same of WW1 modpack, but with it's own flight p
 
 Licence of the code: MIT
 Licence of textures and 3d model: CC BY-SA
-see licence file
+see licences file
